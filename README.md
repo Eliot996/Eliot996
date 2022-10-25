@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</div>
+![stats](https://github-readme-stats.vercel.app/api?username=eliot996&show_icons=true&&count_private=true&theme=gotham)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/mathias-nielsen-189a25a9/" target="_blank">
